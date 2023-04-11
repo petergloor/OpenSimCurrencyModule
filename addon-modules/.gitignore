@@ -1,0 +1,4 @@
+# ignore object folders
+OpenSim-Data-MySQL-MySQLMoneyDataWrapper/obj
+OpenSim-Grid-MoneyServer/obj
+OpenSim-Modules-Currency/obj
